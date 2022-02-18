@@ -1,2 +1,2 @@
 # ShajaraPublicRemoteRepo1
-This is my 1sr Public Remote Repo1
+This is my 1st Public Remote Repo1
